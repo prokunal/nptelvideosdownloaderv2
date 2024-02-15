@@ -3,7 +3,7 @@
 This script will help you to download all lecture videos of a specific course.
 
 ### Requirements 
---
+-- 
 ```bash
 pip install -r requirements.txt
 ```
