@@ -1,5 +1,5 @@
 # Video Downloader of NPTEL courses 
-This script will help you to download all lecture videos of a specific course from NPTEL.
+This script will help you to download all lecture videos of a specific course from NPTEL, it will download all your lectures very fast using multiple threadings.
 
 ### Requirements 
 ```bash
