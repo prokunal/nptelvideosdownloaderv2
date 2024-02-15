@@ -6,7 +6,7 @@ This script will help you to download all lecture videos of a specific course fr
 pip install -r requirements.txt
 ```
 ### Finding course URL. 
-Visit this link https://archive.nptel.ac.in/noc/noc_course.html, and grab any courses of any department, make sure it contains course_id like that in the end: https://archive.nptel.ac.in/courses/ **106106212/**.
+Visit this link https://archive.nptel.ac.in/noc/noc_course.html, and grab any courses of any department, make sure it contains course_id like that **106106212/** in the end: https://archive.nptel.ac.in/courses/106106212/.
 ### Running downloader. 
 ```python
 python3 downloader.py
